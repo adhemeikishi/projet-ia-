@@ -1,0 +1,16 @@
+======================================================================
+RAPPORT D'EVALUATION DU MODELE
+======================================================================
+
+Accuracy globale : 0.8500 (85.00%)
+
+Metriques par classe :
+----------------------------------------------------------------------
+ Classe  Precision  Recall  F1-Score  Support
+   chat   0.703704    0.95  0.808511       20
+  chien   0.923077    0.60  0.727273       20
+voiture   1.000000    1.00  1.000000       20
+
+Rapport de classification detaille :
+----------------------------------------------------------------------
+Classification report non disponible sans scikit-learn.
