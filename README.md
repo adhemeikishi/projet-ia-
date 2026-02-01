@@ -91,7 +91,3 @@ python src/predict_script.py chemin/vers/image.jpg
 - Expliquez le pipeline (étapes, pourquoi standardiser, pourquoi choisir ces méthodes)
 - Présentez des résultats (matrice de confusion et métriques par classe) pour montrer forces/faiblesses
 - Mentionnez limitations : pas de deep learning, features manuelles, performance dépendante de qualité des images
-
----
-
-Si vous êtes d'accord, je crée maintenant le notebook pédagogique (`notebooks/tutorial.ipynb`) et les scripts d'automatisation (`scripts/run_pipeline.py`, `scripts/test_pipeline.py`, `src/utils.py`, `scripts/setup_env.ps1`).
